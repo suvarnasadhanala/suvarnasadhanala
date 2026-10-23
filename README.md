@@ -44,11 +44,18 @@
 ### 📊 SIEM, Monitoring & Network Analysis
 
 <p>
-<img src="https://img.shields.io/badge/SIEM_Learning-0B1220?style=for-the-badge&logo=datadog&logoColor=10B981" alt="SIEM"/>
-<img src="https://img.shields.io/badge/Splunk_Learning-0B1220?style=for-the-badge&logo=splunk&logoColor=10B981" alt="Splunk"/>
-<img src="https://img.shields.io/badge/Wireshark_Learning-0B1220?style=for-the-badge&logo=wireshark&logoColor=10B981" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logo=cisco&logoColor=10B981" alt="TCP/IP"/>
-<img src="https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=10B981" alt="Windows"/>
+  <img src="https://img.shields.io/badge/SIEM-0B1220?style=for-the-badge&logo=datadog&logoColor=10B981" alt="SIEM"/>
+  <img src="https://img.shields.io/badge/Splunk_Learning-0B1220?style=for-the-badge&logo=splunk&logoColor=10B981" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Wireshark-0B1220?style=for-the-badge&logo=wireshark&logoColor=10B981" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Networking-0B1220?style=for-the-badge&logo=cisco&logoColor=10B981" alt="Networking"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0B1220?style=for-the-badge&logo=cisco&logoColor=10B981" alt="TCP/IP"/>
+</p>
+
+### 💻 Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0B1220?style=for-the-badge&logo=windows&logoColor=10B981" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=10B981" alt="Linux"/>
 </p>
 
 ---
